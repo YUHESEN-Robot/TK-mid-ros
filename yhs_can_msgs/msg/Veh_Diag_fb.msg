@@ -1,0 +1,17 @@
+uint8 Veh_fb_FaultLevel
+bool Veh_fb_AutoCANCtrlCmd
+bool Veh_fb_AutoIOCANCmd
+bool Veh_fb_EPSDisOnline
+bool Veh_fb_EPSfault
+bool Veh_fb_EPSMosfetOT
+bool Veh_fb_EPSWarning
+bool Veh_fb_EPSDisWork
+bool Veh_fb_EPSOverCurrent
+uint8 Veh_fb_STReserve
+uint8 Veh_fb_LFDrvMCUFault
+uint8 Veh_fb_RFDrvMCUFault
+uint8 Veh_fb_LRDrvMCUFault
+uint8 Veh_fb_RRDrvMCUFault
+bool Veh_fb_AUXBMSDisOnline
+bool Veh_fb_AuxRemoteDisOnline
+uint8 Veh_fb_AuxReserve
